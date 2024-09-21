@@ -14,7 +14,7 @@ package espgame;
 import java.util.Scanner;
 import java.util.Random;
 import java.io.*;
-public class ESPGameProgram {
+public class ESPGame {
 		
 	public static void main(String[] args) throws IOException {
 		
