@@ -1,8 +1,8 @@
 /*
  * Class: CMSC203 
- * Instructor: Prof. Thai
+ * Instructor: Prof. Grinberg
  * Description: Test the user's extrasensory perception (ESP).
- * Due: 09/20/2024
+ * Due: 02/17/2025
  * Platform/compiler: Eclipse
  * I pledge that I have completed the programming assignment 
  * independently. I have not copied the code from a student or   
