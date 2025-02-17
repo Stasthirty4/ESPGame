@@ -1,0 +1,5 @@
+Game Over
+You guessed 0 out of 3 colors correctly.
+User Name: stas
+User Description: student
+Due Date: 02/17/25
